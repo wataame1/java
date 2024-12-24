@@ -17,13 +17,10 @@ public class Hero {
     public String getName(){
         return this.name;
     }
+
     public int calc(int a,int b){
         int c = a+b;
-        return  c;
-    }
-    public String calc(int a,int b){
-        String c;
-        return  c;
+        return c;
     }
     public String calc(int a, int b, int c){
         String s="";
